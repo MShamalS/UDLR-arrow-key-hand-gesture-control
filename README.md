@@ -1,4 +1,4 @@
-📢This code project uses OpenCV for real-time hand tracking and CVZone for gesture recognition. With the help of Pynput and mediapipe, I can simulate keyboard inputs to control the arrow key up, down, left or right depending on my hand gestures.
+📢This code project uses OpenCV for real-time hand tracking and CVZone for gesture recognition. With the help of Pynput and mediapipe, I can simulate keyboard inputs to control the arrow key up, down, left or right depending on my hand gestures. This project took me soo long to make...Hope you will like it.
 
 
 
